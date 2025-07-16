@@ -1,5 +1,7 @@
 # Go NetPing
+![Go](https://img.shields.io/badge/Go-00ADD8)
 
+## Descrição do Projeto
 **Go NetPing** é uma ferramenta de linha de comando simples, desenvolvida em **Golang**, que permite realizar duas operações de rede essenciais:
 
 - **Buscar o endereço IP** de um domínio ou servidor web.
